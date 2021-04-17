@@ -13,3 +13,8 @@ _(CONTRIBUTING WITH NEW THEMES FOR R-EDUC AT EDITOR KATE)_
 1. Submit the theme to the appropriate directory on github
 2. Add the theme name to the "to_auto_update.json" file in the main directory
 ```
+
+**REPOSITÓRIO DE SINTAXES DO SBOTICS PARA O EDITO KATE**\
+_(SBOTICS SYNTAX REPOSITORY FOR EDITOR KATE)_
+
+[Clique aqui para ir ao repositório/Click here to go to the repository](https://github.com/iagolirapasssos/sBoticsSyntaxeToKateEditor)
