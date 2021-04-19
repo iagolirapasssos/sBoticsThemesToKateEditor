@@ -1,4 +1,4 @@
 {
-	"reduc":["R-EDUC_AtomOneLight.theme", "R-EDUC_BreezeLight.theme", "R-EDUC_DRACULA.theme", "R-EDUC_Printing.theme", "R-EDUC_VimDark.theme"],
+	"reduc":["sBotics_AtomOneLight.theme", "sBotics_BreezeLight.theme", "sBotics_DRACULA.theme", "sBotics_Printing.theme", "sBotics_VimDark.theme"],
 	"csharp":[]
 }
