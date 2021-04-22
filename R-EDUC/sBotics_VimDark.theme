@@ -1,5 +1,18 @@
 {
     "custom-styles": {
+        "R-EDUC PTBR": {
+            "Function": {
+                "text-color": "#00ff2e"
+            },
+            "Normal Text": {
+                "italic": true,
+                "text-color": "#d3d7cf"
+            },
+            "String": {
+                "bold": true,
+                "text-color": "#ffffff"
+            }
+        }
     },
     "editor-colors": {
         "BackgroundColor": "#000000",
